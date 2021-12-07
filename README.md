@@ -1,0 +1,1 @@
+# hirst_spot_generator
